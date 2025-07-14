@@ -1,7 +1,7 @@
 # Rent-a-Car-Project
 Group project for a car rental website.
 
-Our goal is to create a basic web application to manage car rentals, allowing uswes to view available cars, rent them, and see rental details.
+Our goal is to create a basic web application to manage car rentals, allowing users to view available cars, rent them, and see rental details.
 
 We'll use JavaScript arrays of objects to represent our data.
 
